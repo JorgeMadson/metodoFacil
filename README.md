@@ -1,3 +1,5 @@
 # metodoFacil
 
-https://metodofacil.org
+Fork do https://metodofacil.org
+
+https://jorgemadson.github.io/metodoFacil/
